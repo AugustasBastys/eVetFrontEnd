@@ -1,0 +1,4 @@
+
+.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--alignCenter.MuiDataGrid-columnHeaderCheckbox .MuiDataGrid-columnHeaderTitleContainerContent {
+    visibility: hidden;
+  }
